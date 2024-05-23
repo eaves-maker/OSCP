@@ -1,6 +1,5 @@
-<p align="center">
-  <img width="300" height="300" src="/images/kali-linux.svg">
-</p>
+
+## Did this work?
 
 # OSCP Cheat Sheet
 
